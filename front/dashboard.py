@@ -16,8 +16,11 @@ if not os.path.exists(imagenes_dir):
     os.makedirs(imagenes_dir)
 
 # Título de la aplicación
-st.title("La imagen es real?")
+st.title("Ia images vs Humans images")
 
+#Insertar imagen
+
+st.image("IAvsHumans.png",caption="imagen" )
 # Cargar la imagen
 uploaded_file = st.file_uploader("Selecciona una imagen", type=["png", "jpg", "jpeg"])
 
@@ -26,7 +29,7 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file)
     
     # Mostrar la imagen
-    st.image(image, caption="Imagen subida", use_column_width=True)
+    st.image(image, caption="Imagen subida")
 
      # Obtener el nombre del archivo
     file_name = uploaded_file.name
