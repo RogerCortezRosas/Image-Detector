@@ -37,3 +37,27 @@ Dentro de la carpeta /model se encuntran las clases que componen el back:
  <p align="left">
   <img src="images/streamlitLogo.png" alt="Temperatura" width="20%" height="150px" />
 </p>
+
+- **Docker**
+ <p align="left">
+  <img src="images/docker.png" alt="Temperatura" width="20%" height="150px" />
+</p>
+
+## Ejecucion  ⚙️
+
+Ejecuta los siguientes comandos para la ejecucion en tu entorno local
+
+  - git clone https://github.com/RogerCortezRosas/Image-Detector.git
+  - cd Weather_Proyect
+  
+  Ejecuta el siguiente comando
+  
+  - docker-compose up --build
+
+## Contacto
+
+- Autor : Rogelio Cortez Rosas
+- linkedin:https://www.linkedin.com/in/rogelio-cortez-rosas
+- email : rcortezrosas@gmail.com
+
+
