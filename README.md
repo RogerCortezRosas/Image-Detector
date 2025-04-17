@@ -25,15 +25,15 @@ Dentro de la carpeta /model se encuntran las clases que componen el back:
 
  - **Python**
  <p align="left">
-  <img src="images/pythonLogo.png" alt="Temperatura" width="35%" height="300px" />
+  <img src="images/pythonLogo.png" alt="Temperatura" width="15%" height="150px" />
 </p>
 
 - **TensorFLow - Keras**
  <p align="left">
-  <img src="images/tensorflowkeras.png" alt="Temperatura" width="35%" height="300px" />
+  <img src="images/tensor.png" alt="Temperatura" width="15%" height="150px" />
 </p>
 
 - **Streamlit**
  <p align="left">
-  <img src="images/streamlitLogo.png" alt="Temperatura" width="35%" height="300px" />
+  <img src="images/streamlitLogo.png" alt="Temperatura" width="155%" height="150px" />
 </p>
